@@ -1,6 +1,5 @@
 #This is demonstration code for the Lumenati line of APA102c boards,
-#specifically using (4) 90L boards surrounding one 8-pack board.
-
+#specifically using 1 straight 8 LED board.
 import time
 
 from SFE_Lumenati import set_LED_quantity, WriteLEDs, set_LED
